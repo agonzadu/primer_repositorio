@@ -91,7 +91,7 @@ if (acceso >= 18){
 	document.write("<h1>Bienvenido, por favor, siga</h1>")
 }
 
-else if(acceso = 80){
+else if(acceso >= 80){
 	alert("Abueloooo!!!!!")
 }
 
